@@ -3,15 +3,15 @@ here is my portfolio about my self and the projects i have made and the things i
 # {MY portfolio}
 #### {a portfolo expressing whom i am and my personality  }
 ** {wednesday/01/09}
-## AUTHOR
+## **AUTHOR
 
 *DICKSON NJUGUNA
-## Description
+## **Description
 {This is a detailed description of my website .its among my first projects .}
 *{help people kmow more about me and my career journey}
 *{it includes the things i love doing during my free time}
 
-### GIT HUB PAGES:
+### **GIT HUB PAGES:
 https://dick7005.github.io/mainproject/
 ## Setup/
 *easy to use and navigate around the website
