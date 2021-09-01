@@ -4,7 +4,8 @@ here is my portfolio about my self and the projects i have made and the things i
 #### {a portfolo expressing whom i am and my personality  }
 ** {wednesday/01/09}
 ## AUTHOR
-**{DICKSON NJUGUNA}**
+
+*DICKSON NJUGUNA
 ## Description
 {This is a detailed description of my website .its among my first projects .}
 *{help people kmow more about me and my career journey}
