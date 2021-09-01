@@ -1,9 +1,10 @@
-# **mainproject
-here is my portfolio about my self and the projects i have made  and the things i like doing during my free time
+# #**mainproject
+here is my portfolio about my self and the projects i have made and the things i like doing during my free time
 # {Application Name}
-#### {to express who i am and my personality }, {wednesday/01/09}
+#### {a portfolo expressing whom i am and my personality  }
+** {wednesday/01/09}
 #### author
-**{DICKSO}**
+**{DICKSON NJUGUNA}**
 ## Description
 {This is a detailed description of my website .its among my first projects .}
 *{help people kmow more about me and my career journey}
