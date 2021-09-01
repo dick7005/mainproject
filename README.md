@@ -20,5 +20,5 @@ here is my portfolio about my self and the projects i have made  and the things 
 {for any emerging issue feel free to reach out to pythonscript254@gmail.com and get assistance}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {2021} **{MIT board}**
+Copyright (c) {2021 **{MIT board}**
   
