@@ -1,5 +1,5 @@
 # **mainproject
-here is my portfolio about my self and the projects i have made and the things i like doing during my free time
+here is my portfolio about my self and the projects i have made and the things i like doing during my free time.
 # {MY portfolio}
 #### {a portfolo expressing whom i am and my personality  }
 ** {wednesday/01/09}
