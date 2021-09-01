@@ -1,6 +1,6 @@
-# #**mainproject
+# **mainproject
 here is my portfolio about my self and the projects i have made and the things i like doing during my free time
-# {Application Name}
+# {MY portfolio}
 #### {a portfolo expressing whom i am and my personality  }
 ** {wednesday/01/09}
 #### author
