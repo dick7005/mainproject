@@ -14,7 +14,10 @@ here is my portfolio about my self and the projects i have made and the things i
 https://dick7005.github.io/mainproject/
 ## Setup/
 *easy to use and navigate around the website
+
 *basic format of a website
+
+*use of html and css language
 ## Known Bugs
 {The website is bug free and is safe to use openly . }
 ## Technologies Used
