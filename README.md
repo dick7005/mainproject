@@ -13,17 +13,17 @@ here is my portfolio about my self and the projects i have made and the things i
 
 ### **GIT HUB PAGES:
 https://dick7005.github.io/mainproject/
-## Setup/
+## **Setup/
 *easy to use and navigate around the website
 
 *basic format of a website
 
 *use of html and css language
-## Known Bugs
+## **Known Bugs
 {The website is bug free and is safe to use openly . }
-## Technologies Used
+## **Technologies Used
 {languages used = {HTML&CSS} i used some cool tools and styles in making of my website. include:the liver server plate;to publish my website online 2. one dark pro;to make my codes look better and presentabe in the visual studio code}
-## Support and contact details
+## **Support and contact details
 {for any emerging issue feel free to reach out to pythonscript254@gmail.com and get assistance}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
